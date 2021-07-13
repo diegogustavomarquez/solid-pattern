@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;org.formacion.srp.ExportarCVS&apos; to &apos;ExportadorCVS&apos;&#x0D;&#x0A;- Original project: &apos;solid_1_S_SRP_ejercicio&apos;&#x0D;&#x0A;- Original element: &apos;org.formacion.srp.ExportarCVS&apos;&#x0D;&#x0A;- Renamed element: &apos;org.formacion.srp.ExportadorCVS&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;ExportarCVS&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;org.formacion.srp{ExportarCVS.java[ExportarCVS" matchStrategy="1" name="ExportadorCVS" qualified="false" references="true" similarDeclarations="false" stamp="1611257387734" textual="false" version="1.0"/>
+</session>

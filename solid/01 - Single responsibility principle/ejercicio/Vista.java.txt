@@ -1,0 +1,18 @@
+import java.util.stream.Collectors;
+
+public class Vista {
+	
+	private Servicio servicio;
+	
+	public Vista (Servicio service) {
+		this.servicio = service;
+	}
+	
+	
+	public String report () {
+		
+		return "Report :\n" + 
+				 servicio.lista();
+	}
+
+}

@@ -1,0 +1,23 @@
+INDEX VERSION 1.131+D:\software\curse\solid-pattern\workspace\.metadata\.plugins\org.eclipse.jdt.core
+3190871898.index
+1581557778.index
+757765129.index
+3866946440.index
+1057386876.index
+1381906233.index
+2060518626.index
+3589448438.index
+108485303.index
+4248367930.index
+3922934503.index
+2454027279.index
+1818370465.index
+2196199803.index
+700079094.index
+1738608422.index
+2332463207.index
+2847551755.index
+403615515.index
+372580519.index
+552630812.index
+1825443710.index

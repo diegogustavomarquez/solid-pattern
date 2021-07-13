@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;org.formacion.ocp.GeneradorPrimosOrdenado&apos; to &apos;GeneradorPrimosOrdenInverso&apos;&#x0D;&#x0A;- Original project: &apos;solid_2_O_OCP_ejercicio&apos;&#x0D;&#x0A;- Original element: &apos;org.formacion.ocp.GeneradorPrimosOrdenado&apos;&#x0D;&#x0A;- Renamed element: &apos;org.formacion.ocp.GeneradorPrimosOrdenInverso&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;GeneradorPrimosOrdenado&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;org.formacion.ocp{GeneradorPrimosOrdenado.java[GeneradorPrimosOrdenado" matchStrategy="1" name="GeneradorPrimosOrdenInverso" qualified="false" references="true" similarDeclarations="false" stamp="1611259909999" textual="false" version="1.0"/>
+</session>

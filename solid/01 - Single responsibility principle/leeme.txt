@@ -1,0 +1,3 @@
+si una clase hace una sola cosa es mas facil de mantener.
+Una unica de responsabilidad.. cohesivo
+una clase solo tiene una razon para cambiar.

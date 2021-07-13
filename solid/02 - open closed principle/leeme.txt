@@ -1,0 +1,3 @@
+agregar nueva funcionalidad sin tocar el codigo existen
+porque puede agregar errores
+hay que probar todo de nuevo
